@@ -1,0 +1,8 @@
+var numero = Number( prompt("digite o numero") );
+    
+    if (numero >= 10 && numero <= 20) {
+        alert ("O número está entre 10 e 20!"); 
+
+    } else {
+       alert("O número não está entre 10 e 20!");
+    }
