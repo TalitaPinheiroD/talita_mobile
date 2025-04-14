@@ -1,0 +1,12 @@
+var usuario = prompt("Digite o nome de usuario");
+console.log(usuario);
+
+var email = prompt("Digite seu email");
+console.log(email);
+
+var senha = prompt("Digite sua senha");
+console.log(senha);
+
+
+
+
