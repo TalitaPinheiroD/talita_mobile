@@ -1,0 +1,19 @@
+let numero_1 = prompt ("Digite um numero");
+
+console.log (numero_1);
+
+let numero_2 = prompt ("Digite um numero");
+
+console.log (numero_2);
+
+let numero_3 = prompt ("digite um numero");
+
+console.log (numero_3);
+
+let contador = 1
+
+while (contador < 100) {
+    console.log (contador);
+    contador = contador + 1;
+}
+console.log("terminou de contar");
